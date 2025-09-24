@@ -3,7 +3,17 @@
 <h1 align="center">Hi 👋, I'm Toukir Ahmed</h1>
 <h3 align="center">A passionate Mobile app developer from Bangladesh</h3>
 
-<img align="right" alt="Coding" width="150" src="https://github.com/cooltoukir/cooltoukir/blob/main/Developer_Yoga.gif">
+<!-- Two columns × two rows -->
+<table align="right">
+  <tr>
+    <td><img src="https://github.com/cooltoukir/cooltoukir/blob/main/assets/Developer_Yoga.gif" width="150"></td>
+    <td><img src="https://github.com/cooltoukir/cooltoukir/blob/main/assets/Android_logo.gif" width="150"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/cooltoukir/cooltoukir/blob/main/assets/Kotlin.gif" width="150"></td>
+    <td><img src="https://github.com/cooltoukir/cooltoukir/blob/main/assets/Flutter_Logo.gif" width="150"></td>
+  </tr>
+</table>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cooltoukir&label=Profile%20views&color=0e75b6&style=flat" alt="cooltoukir" /> </p>
 
