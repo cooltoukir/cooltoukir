@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Toukir Ahmed</h1>
 <h3 align="center">A passionate Mobile app developer from Bangladesh</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="150" src="https://github.com/cooltoukir/cooltoukir/blob/main/Developer_Yoga.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cooltoukir&label=Profile%20views&color=0e75b6&style=flat" alt="cooltoukir" /> </p>
 
