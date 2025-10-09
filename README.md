@@ -23,7 +23,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/cooltoukir](https://github.com/cooltoukir)
 
-- 💬 Ask me about **Android, Flutter, Spring Boot, Kotlin**
+- 💬 Ask me about **Android, Kotlin, Flutter, Spring Boot**
 
 - 📫 How to reach me **mdtoukirahmedmehedi@gmail.com**
 
