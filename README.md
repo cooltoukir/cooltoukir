@@ -37,5 +37,5 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cooltoukir&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cooltoukir&layout=compact&langs_count=6&hide_border=true&theme=tokyonight&card_width=400&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cooltoukir&layout=compact&langs_count=6&hide_border=true&theme=tokyonight&card_width=380&cache_seconds=1800" />
 </p>
